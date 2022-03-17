@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cinzel&family=Lobster&family=Moon+Dance&display=swap');
+
+
+ 
+.contact {
+    font-family:'Abril Fatface', cursive; 
+    color: rgb(7, 161, 20);
+    font-size:1rem;
+
+}
+
+.sticky {
+    position:sticky;
+    top: 0;
+    z-index: 2;
+}

@@ -1,10 +1,10 @@
 import React from "react";
 import logo from "./steeptrye_logopng.png"
-
+import './Header.css'
 
 const Header = () => {
   return (
-    <div className=" text-red">
+    <div className=" text-red sticky">
       <nav className="navbar navbar-light bg-light">
         <a className="navbar-brand" href="/"   style={{fontFamily:'Abril Fatface', marginLeft: 2,}}>
           <img
@@ -17,7 +17,7 @@ const Header = () => {
          Steep Tyres 
         </a>
        <div> 
-           <p style={{ color: 'red'}}>Call and book an appointment today: 0469291515</p>
+           <h3 className="contact">Call and book an appointment today: <p style={{color: "red"}}>0469291515</p></h3>
        </div>
       </nav>
     </div>

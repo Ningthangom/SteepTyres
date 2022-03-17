@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Steep Tyres (static car workshop site)
 
-You can use the [editor on GitHub](https://github.com/Ningthangom/SteepTyres/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+    This is a car workshop site with list of services and repairs. 
+    It is responsive and contact number is visible as the header is always sticky.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Live page:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+check out the app here : [welcome to Steep Tyres](https://steeptyres.netlify.app/) 
 
-```markdown
-Syntax highlighted code block
+## demo:
+   ![Alt Text](/gif/1.gif)
+   
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ningthangom/SteepTyres/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

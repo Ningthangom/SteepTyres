@@ -52,7 +52,7 @@ const Home = () => {
   return (
     <div
       style={{
-        backgroundImage: `url(https://media.istockphoto.com/photos/auto-mechanic-working-on-car-engine-in-mechanics-garage-repair-picture-id1284285153?k=20&m=1284285153&s=612x612&w=0&h=fP-B3p1dhh2JLkGj7b_re21qPMuz0whv2EjAQDcCRxE=)`,
+        backgroundImage: `url(https://www.mercedes-benz.com/de/fahrzeuge/personenwagen/amg-gt/mbvideocar-mercedes-amg-gt-s/_jcr_content/image/MQ6-12-image-20190114123613/mercedes-benz-cars-mercedes-amg-gt-s-c-190-mbvideocar-road-trip-sylt-2560x1440-2560x1440.jpeg)`,
         backgroundSize: "cover",
         minHeight: "100vh",
         backgroundPosition: "center center",
@@ -60,7 +60,7 @@ const Home = () => {
       }}
     >
       <div>
-        <h1 className="welcome">Welcome to Steep Tyres</h1>
+        <h1 className="welcome" style={{color: 'black'}}>Welcome to Steep Tyres</h1>
       </div>
       <div
         style={{
