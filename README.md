@@ -6,10 +6,10 @@
 
 ## Live page:
 
-check out the app here : [welcome to Steep Tyres](https://steeptyres.netlify.app/) 
+check out the app here : [Welcome to Steep Tyres](https://steeptyres.netlify.app/) 
 
-## demo:
+## Demo:
    ![Alt Text](/gif/1.gif)
-   
+
 
 
